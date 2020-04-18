@@ -1,4 +1,4 @@
-# Embedded-System---Passoword-Security-Door-System
+# Embedded-System---Password-Security-Door-System
 
 # Introdution 
 In this project we will learn how to make Password Based Door Lock Security System Using Arduino & Keypad.
